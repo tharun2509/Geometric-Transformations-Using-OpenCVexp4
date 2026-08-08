@@ -83,16 +83,21 @@ Read the input image in color mode.
 ### Image Translation
 - Original image is displayed  
 - Translated image (shifted right and down) is displayed  
+<img width="227" height="409" alt="image" src="https://github.com/user-attachments/assets/bacf9d64-8188-47e2-b78a-6d4d5424fcf1" />
 
 ### Image Scaling
 - Original image is displayed  
 - Downscaled image (0.5×) is displayed  
 - Upscaled image (2×) is displayed  
 
+<img width="515" height="393" alt="image" src="https://github.com/user-attachments/assets/cf9c7540-fdf2-42d3-a177-affa04ace7c0" />
+
 ### Image Shearing
 - Original image is displayed  
 - Horizontally sheared image is displayed  
 - Vertically sheared image is displayed  
+
+<img width="227" height="409" alt="image" src="https://github.com/user-attachments/assets/bd54b892-ce9e-4bc4-befb-b5e7367c7f68" />
 
 ### Image Reflection
 - Original image is displayed  
@@ -100,10 +105,14 @@ Read the input image in color mode.
 - Vertically flipped image is displayed  
 - Both-axis flipped image is displayed  
 
+<img width="227" height="409" alt="image" src="https://github.com/user-attachments/assets/b6d06f9f-80d4-4b50-ab43-0c7632ebd09c" />
+
 ### Image Rotation
 - Original image is displayed  
 - 45° rotated image is displayed  
 - 90° rotated image is displayed  
+
+<img width="227" height="409" alt="image" src="https://github.com/user-attachments/assets/f40c8980-fcc5-4cbc-a706-5bba53fe1ef0" />
 
 ---
 
